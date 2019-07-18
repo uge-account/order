@@ -6,5 +6,4 @@
 
 **目录：**
 
-![skipfile=/^(charge:order:concepts)$/ nsort dsort
-msort](/indexmenu\>/charge/order#1)
+{{indexmenu>:charge:order#1 | nsort dsort msort}}
